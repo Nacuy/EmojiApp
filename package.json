@@ -2,9 +2,7 @@
   "name": "EmojiApp",
   "version": "1.0.0",
   "main": "expo-router/entry",
-  "scripts": {
-    "postinstall": "patch-package"
-  },
+  "scripts": {},
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
     "@react-native-picker/picker": "^2.11.1",
@@ -36,7 +34,6 @@
     "eslint-config-expo": "^9.2.0",
     "eslint-config-prettier": "^10.1.2",
     "patch-package": "^8.0.0",
-    "postinstall-postinstall": "^2.1.0",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.0",
